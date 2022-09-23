@@ -7,7 +7,7 @@ A 'git-things-to-help-yourself' list. So:
 - do a 'git pull upstream master; git push <origin>' at least daily-ish
 - do not keep diffs you will not want later. Clear them out.
 - if you are in a branch, do not 'git checkout otherBranch'. do a 'git checkout master' first.
-- if you want to store something for you do not know when, put it in a branch in your fork and
-just leave it and have no stress about it. Branches do not cost money.
+- if you want to store something for you do not know when, put it in a branch in
+your fork and just leave it and have no stress about it. Branches do not cost money.
 
 :--) ray@ganymede.org
